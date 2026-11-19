@@ -1,1 +1,1 @@
-# -Strategy-Labs-Notebooks
+# Strategy Labs Notebooks
